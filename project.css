@@ -1,0 +1,117 @@
+﻿body {
+    background-color: lightgrey;
+}
+
+.header {
+    background-color: darkturquoise;
+    background-size: 100%;
+    text-align: center;
+    padding: 18px;
+    font: 30px Georgia, sans-serif;
+    color: white;
+    text-shadow: 6px 3px #5b5656;
+}
+
+.topnav {
+    overflow: hidden;
+    background-color: whitesmoke;
+}
+
+
+    .topnav a {
+        float: left;
+        display: block;
+        color: black;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+        font: 22px Georgia, sans-serif;
+    }
+
+        .topnav a:hover {
+            background-color: darkturquoise;
+            color: white;
+        }
+
+.toptitle h1 {
+    text-align: center;
+    font: 35px Georgia, sans-serif;
+    font-weight: bold;
+    color: whitesmoke;
+    padding-top: 5px;
+    padding-bottom: 10px;
+    margin-left: 350px;
+    margin-right: 350px;
+    background-color: darkturquoise;
+    border: solid;
+    border-radius: 15px;
+}
+
+.container {
+    text-align: center;
+    margin-left: 450px;
+    margin-right: 450px;
+    padding-bottom: 10px;
+    border: thick;
+    border-style: solid;
+    border-color: darkturquoise;
+    background-color: whitesmoke;
+    border-radius: 30px;
+    margin-top: 40px;
+}
+
+    .container h2 {
+        color: black;
+        font: 30px Georgia, sans-serif;
+        font-weight: bold;
+    }
+
+.container1 {
+    text-align: center;
+    margin-left: 250px;
+    margin-right: 250px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    border: thick;
+    border-style: solid;
+    border-color: darkturquoise;
+    background-color: whitesmoke;
+    border-radius: 30px;
+    margin-top: 40px;
+    margin-bottom: 200px;
+    height: 950px;
+}
+
+    .container1 h2 {
+        color: black;
+        font: 30px Georgia, sans-serif;
+        font-weight: bold;
+    }
+
+    .container1 h3 {
+        font: 25px Georgia, sans-serif;
+        color: black;
+    }
+
+    .container1 a {
+        text-decoration: none;
+        font: 25px Georgia, sans-serif;
+        text-align: center;
+        color: black;
+        display: inline-block;
+    }
+
+    .container1 embed {
+        display: inline-block;
+    }
+
+.footer {
+    position: fixed center;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: whitesmoke;
+    color: black;
+    text-align: center;
+    font: 12px Georgia, sans-serif;
+}
