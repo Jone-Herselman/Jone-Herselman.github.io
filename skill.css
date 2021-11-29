@@ -82,6 +82,19 @@
     clear: both;
 }
 
+.image img {
+    display: inline-block;
+    width: 75%;
+    height: 75%;
+    border: thick;
+    border-style: solid;
+    border-color: slategrey;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    margin-left:150px;
+    margin-right: 200px;
+}
+
 .footer {
     position: fixed center;
     left: 0;
