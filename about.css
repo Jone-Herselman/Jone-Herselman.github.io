@@ -126,7 +126,7 @@
     }
 
     .column2 ul {
-        font: 18px Georgia, sans-serif;
+        font: 20px Georgia, sans-serif;
         padding-left: 100px;
     }
 
@@ -151,7 +151,14 @@
     border: thick;
     border-style: solid;
     border-color: slategrey;
+    position: relative;
 }
+.text-block {
+    text-align: center;
+    font: 30px Georgia, sans-serif;
+}
+
+
 
 .footer {
     position: fixed center;
