@@ -153,9 +153,11 @@
     border-color: slategrey;
     position: relative;
 }
+
 .text-block {
     text-align: center;
     font: 30px Georgia, sans-serif;
+ 
 }
 
 

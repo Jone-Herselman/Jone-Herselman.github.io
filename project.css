@@ -68,28 +68,28 @@
 
 .container1 {
     text-align: center;
-    margin-left: 250px;
-    margin-right: 250px;
-    padding-bottom: 10px;
-    padding-top: 10px;
+    margin-left: 50px;
+    margin-right: 50px;
+    padding-bottom: 5px;
+    padding-top: 5px;
     border: thick;
     border-style: solid;
     border-color: darkturquoise;
     background-color: whitesmoke;
     border-radius: 30px;
-    margin-top: 40px;
-    margin-bottom: 200px;
-    height: 950px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    height: 800px;
 }
 
     .container1 h2 {
         color: black;
-        font: 30px Georgia, sans-serif;
+        font: 50px Georgia, sans-serif;
         font-weight: bold;
     }
 
     .container1 h3 {
-        font: 25px Georgia, sans-serif;
+        font: 35px Georgia, sans-serif;
         color: black;
     }
 
@@ -99,9 +99,52 @@
         text-align: center;
         color: black;
         display: inline-block;
+        margin-left: 10px;
+        margin-right: 10px;
     }
 
     .container1 embed {
+        display: inline-block;
+    }
+
+.container2 {
+    text-align: center;
+    margin-left: 50px;
+    margin-right: 50px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    border: thick;
+    border-style: solid;
+    border-color: darkturquoise;
+    background-color: whitesmoke;
+    border-radius: 30px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    height: 600px;
+}
+
+    .container2 h2 {
+        color: black;
+        font: 50px Georgia, sans-serif;
+        font-weight: bold;
+    }
+
+    .container2 h3 {
+        font: 35px Georgia, sans-serif;
+        color: black;
+    }
+
+    .container2 a {
+        text-decoration: none;
+        font: 25px Georgia, sans-serif;
+        text-align: center;
+        color: black;
+        display: inline-block;
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+
+    .container2 embed {
         display: inline-block;
     }
 
