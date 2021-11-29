@@ -33,27 +33,33 @@
             color: white;
         }
 
-.toptitle {
-    margin-top: 30px;
+.toptitle h1 {
+    text-align: center;
+    font: 35px Georgia, sans-serif;
+    font-weight: bold;
+    color: whitesmoke;
+    padding-top: 5px;
+    padding-bottom: 10px;
+    margin-left: 400px;
+    margin-right: 400px;
+    background-color: darkturquoise;
+    border: solid;
+    border-radius: 15px;
 }
 
-    .toptitle center u {
-        text-align: center;
-        font: 35px Georgia, sans-serif;
-        font-weight: bold;
-        color: whitesmoke;
-        padding-top: 5px;
-        padding-bottom: 10px;
-        margin-left: 200px;
-        margin-right: 200px;
-        background-color: darkturquoise;
-        border: solid;
-        border-radius: 15px;
-    }
+.row {
+    border: thick;
+    border-style: solid;
+    border-color: slategrey;
+    background-color: whitesmoke;
+    margin-left: 60px;
+    margin-right: 60px;
+}
 
 .column {
     float: left;
     width: 50%;
+
 }
 
     .column h1 {
